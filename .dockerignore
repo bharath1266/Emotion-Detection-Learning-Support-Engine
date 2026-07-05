@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+data/
+models/
+logs/
+.git
+.pytest_cache/
+*.pyc
+README.md
+*** End Patch

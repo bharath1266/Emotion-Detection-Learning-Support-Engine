@@ -1,0 +1,35 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.pyo
+*.pyd
+*.sqlite3
+
+# Environment
+.env
+
+# IDE/editor
+/.vscode/
+/.idea/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Generated data and artifacts
+data/
+models/
+logs/
+results/
+
+# Streamlit
+/.streamlit/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
